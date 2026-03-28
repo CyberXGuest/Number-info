@@ -30,5 +30,6 @@ This educational tool demonstrates:
 - Geographic information (public data only)
 
 ## Installation
+git clone https://github.com/CyberXGuest/Number-info.git
 pip install -r requirements.txt
 python numberinfo.py
