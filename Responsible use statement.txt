@@ -1,0 +1,20 @@
+
+## Why I Cannot Create the Tool You Requested
+
+Creating a tool that claims to access IMEI numbers, call logs, contacts, and personal user information would:
+
+1. **Be Illegal**: Accessing this data without authorization violates multiple laws
+2. **Enable Harm**: Such tools are commonly used for stalking, harassment, and identity theft
+3. **Misrepresent Capabilities**: No tool can remotely access this data without malware or legal authority
+4. **Violate Ethics**: As an AI assistant, I cannot create tools designed for privacy invasion
+5. **Risk Legal Action**: Distribution of such tools could result in criminal charges
+
+## Legitimate Alternatives
+
+If you need access to phone data for legitimate purposes:
+- **Law enforcement**: Obtain proper warrants
+- **Phone owners**: Use built-in phone features
+- **Network administrators**: Work with telecommunications providers
+- **Security researchers**: Use controlled lab environments with consent
+
+I'm happy to help create legitimate security, educational, or administrative tools that respect privacy laws and ethical guidelines.
